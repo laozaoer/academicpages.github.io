@@ -6,15 +6,14 @@ author_profile: true
 ---
 
 ## Research interest
-* Multiple testing
-* Statistical bioinformatics
-* High-dimensional statistics 
-* Machine learning
-* Deep learning
+* Adaptive design of clinical trials
+* Survival analysis
+* Bayesian methods
+* Misclassification
 
 ## Publications
-* Zhou, H., Zhang, X., & Chen, J. (2020). Covariate adaptive family-wise error rate control for genome-wide association studies. *Biometrika*, forthcoming. [arXiv](https://arxiv.org/abs/2011.01107) [GitHub](https://github.com/jchen1981/CAMT/)
-* Ding, Z., Zhou, H., McCauley N., Ko, G., Zhang, K. K. & Xie, L. (2020). In ovo hyperglycemia causes congenital limb defects in chicken embryos via disruption of cell proliferation and apoptosis. *Biochimica et Biophysica Acta - Molecular Basis of Disease* **1866**, 165955. [Link](https://pubmed.ncbi.nlm.nih.gov/32877749/)
+* Wang, T. and Ma, W. (2020) The impact of misclassification on covariate-adaptive randomized clinical trials. Biometrics, in press (https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13308)
+* 
 
 ## Working papers
 * Zhou, H., He, K., Zhang, X. & Chen, J. (2020). A simple method to differential abundance analysis. 
