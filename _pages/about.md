@@ -12,3 +12,5 @@ redirect_from:
 [Department of Statistics](https://stat.tamu.edu/), [Texas A&M University](https://www.tamu.edu/) 
 
 Blocker 406B
+
+E-mail: tong@stat.tamu.edu
