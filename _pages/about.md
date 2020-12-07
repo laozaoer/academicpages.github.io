@@ -16,8 +16,8 @@ Blocker 406B
 E-mail: tong@stat.tamu.edu
 
 ## Education
-* (Aug. 2018-present) Department of Statistics, Texas A&M University, Ph.D. candidate, advisor: [Dr. Samiran Sinha](https://stat.tamu.edu/~sinha/index.html) 
-* (Sep. 2016-present) Institute of Statistics and Big Data, Renmin University of China, Ph.D. condidate, advisor: [Dr. Wei Ma](http://isbd.ruc.edu.cn/sztd/97e816671d6449f59b73af673e02ba94.htm)
+* (Aug. 2018-present) [Department of Statistics](https://stat.tamu.edu/), [Texas A&M University](https://www.tamu.edu/) , Ph.D. candidate, advisor: [Dr. Samiran Sinha](https://stat.tamu.edu/~sinha/index.html) 
+* (Sep. 2016-present) [Institute of Statistics and Big Data](http://isbd.ruc.edu.cn/index.htm), [Renmin University of China](https://www.ruc.edu.cn/), Ph.D. condidate, advisor: [Dr. Wei Ma](http://isbd.ruc.edu.cn/sztd/97e816671d6449f59b73af673e02ba94.htm)
 * (June 2016) College of Mathematics, Sichuan University, B.S. in Statistics
 
 ## Research Interest
