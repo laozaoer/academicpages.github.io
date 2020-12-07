@@ -10,4 +10,5 @@ redirect_from:
 
 ## Contact
 [Department of Statistics](https://stat.tamu.edu/), [Texas A&M University](https://www.tamu.edu/) 
+
 Blocker 406B
