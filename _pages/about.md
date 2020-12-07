@@ -20,3 +20,8 @@ E-mail: tong@stat.tamu.edu
 * (Sep. 2016-present) Institute of Statistics and Big Data, Renmin University of China, Ph.D. condidate, advisor: [Dr. Wei Ma](http://isbd.ruc.edu.cn/sztd/97e816671d6449f59b73af673e02ba94.htm)
 * (June 2016) College of Mathematics, Sichuan University, B.S. in Statistics
 
+## Research Interest
+* Adaptive design of clinical trials
+* Survival analysis
+* Bayesian methods
+* Misclassification
