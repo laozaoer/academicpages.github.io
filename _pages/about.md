@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "TONG WANG"
+title: "王通 TONG WANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
