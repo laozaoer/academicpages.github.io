@@ -14,3 +14,6 @@ redirect_from:
 Blocker 406B
 
 E-mail: tong@stat.tamu.edu
+
+## Education
+* Department of Statistics, Texas A&M University Ph.D. in Statistics, advisor: [Dr. Samiran Sinha](https://stat.tamu.edu/~sinha/index.html)
