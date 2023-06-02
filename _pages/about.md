@@ -16,7 +16,7 @@ Blocker 406B
 E-mail: tong@stat.tamu.edu
 
 ## Work Experience
-* (Dec. 2021-Dec.2022) Assistant professor, Nankai University 
+* (Dec. 2021-Dec.2022) Assistant professor, School of Statistics and Data Science， Nankai University 
 
 ## Education
 * (Aug. 2018-present) [Department of Statistics](https://stat.tamu.edu/), [Texas A&M University](https://www.tamu.edu/) , Ph.D. candidate, advisor: [Dr. Samiran Sinha](https://stat.tamu.edu/~sinha/index.html) 
