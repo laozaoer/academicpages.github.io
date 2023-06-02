@@ -7,12 +7,11 @@ author_profile: true
 
 
 
-## Published
-* Wang, T. and  Ma, W. (2020) The impact of misclassification on covariate-adaptive randomized clinical trials. *Biometrics*, in press.
+## Papers
+* Wang T, He K, Ma W, et al. Minorize–maximize algorithm for the generalized odds rate model for clustered current status data. Canadian Journal of Statistics, 2022.
+* Wang T, Ma W. The impact of misclassification on covariate‐adaptive randomized clinical trials. Biometrics, 2021, 77(2): 451-464.
 
-## Under review
-* Wang, T.,  He, K.,  Ma, W., Bandyopadhyay, D. and   Sinha, S. (2021)  Minorize-Maximize Algorithm  for the Generalized Odds Ratio Model for Clustered Current Status Data.  
+## Book Chapters
+* Wang T, Bandyopadhyay D, Sinha S. Efficient Estimation of the Additive Risks Model for Interval-Censored Data, Emerging Topics in Modeling Interval-Censored Survival Data. Cham: Springer International Publishing, 2022: 167-192.
 
-## Working papers
-* Wang, T. and Ma, W.  The impact of misclassification on covariate-adaptive randomized clinical trials under Generalized Linear Model.
-* Wang, T. and Sinha, S.  An efficient Minorize-Maximize algorithm for semiparametric additive risks model for interval-censored data.
+
